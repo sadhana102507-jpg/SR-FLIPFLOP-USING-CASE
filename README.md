@@ -70,4 +70,5 @@ Developed by:SADHANA R RegisterNumber:25017643
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/05a877e7-d61a-4366-a67c-7b2600c261ba" />
 
 
-**RESULTS**
+**RESULTS** Thus the SR flipflop using verilog and validating their functionality using their functional tables is implemented and verified.
+
